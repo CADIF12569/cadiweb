@@ -1,0 +1,24 @@
+.headave{
+	background-color: gray;
+}
+
+nav ul li{
+	display: inline;
+}
+nav {
+	padding: 1px;
+    background-color: gray;
+}
+
+
+li a{
+    color: black;
+    text-decoration: none;
+    padding: 17px;
+
+}
+
+li a:hover {
+    background-color: black;
+    color: gray;
+}
